@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1524886175 source:d:\cifrado affin\affin.cpp
+	"affin.h"
+
+1524886085 d:\cifrado affin\affin.h
+	<iostream>
+	"Header.h"
+	<string>
+	<math.h>
+	<ctime>
+
+1524883409 d:\cifrado affin\header.h
+	<iostream>
+	<string>
+	<ctime>
+	<math.h>
+	<stdio.h>
+
+1524886085 source:d:\cifrado affin\mcd.cpp
+	"Header.h"
+
+1524886124 source:d:\cifrado affin\main.cpp
+	<iostream>
+	"affin.h"
+
