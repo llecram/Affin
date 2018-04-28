@@ -1,14 +1,16 @@
 #include<iostream>
 #include"Header.h"
+#include "Affin.h"
 using namespace std;
 int main() {
-	int a1 = 781;
-	int c2 = 913;
-	int d = euclides(a1, c2);
-	int s = 0;
-	int t = 0;
-	int g = euclidesext(84, 320, s, t);
-	cout << s << endl << t << endl << g<<endl;
-	cout << d << endl;
+	char mensaje[100000];
+	cin.getline(mensaje, 100000);
+	string mesagge(mensaje);
+	Affin ese;
+	Affin ese2(7, 56);
+	cout << ese.geta() << endl << ese.getb() << endl;
+	cout << ese2.getinversa() << endl;
+	ese.cifrado(mensaje);
+	ese2.descifrado("Lu9-KduguKrV_-V");
 	system("pause");
 }

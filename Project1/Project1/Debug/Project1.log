@@ -1,2 +1,7 @@
 ﻿  Affin.cpp
+c:\users\dennis\source\repos\project1\project1\affin.cpp(4): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\dennis\source\repos\project1\project1\affin.cpp(33): warning C4018: '<': no coinciden signed/unsigned
+c:\users\dennis\source\repos\project1\project1\affin.cpp(34): warning C4018: '<': no coinciden signed/unsigned
+c:\users\dennis\source\repos\project1\project1\affin.cpp(48): warning C4018: '<': no coinciden signed/unsigned
+c:\users\dennis\source\repos\project1\project1\affin.cpp(49): warning C4018: '<': no coinciden signed/unsigned
   Project1.vcxproj -> C:\Users\Dennis\source\repos\Project1\Debug\Project1.exe
